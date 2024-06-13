@@ -15,5 +15,6 @@ public class Hello {
         DSaQuestion obj=new DSaQuestion();
         System.out.println("Maximu Profit is:-"+" "+obj.Buysell());
         System.out.println("Max profit is:-"+" "+obj.Buysell2());
+        System.out.println("hii");
     }
 }
