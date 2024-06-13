@@ -8,6 +8,10 @@ public class Hello {
         //My First GitHub Repositry.
         for(int i=0;i<100;i++){
             System.out.println("you are genius");
+
+        }
+        for(int i=0;i<10;i++){
+            System.out.println("good");
         }
     }
 }
