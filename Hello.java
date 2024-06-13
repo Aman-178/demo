@@ -5,7 +5,7 @@ public class Hello {
         // System.out.println("hello");
         // System.out.println("hello");
         // System.out.println("My name is Aman Singh Rajput");
-        //My First GitHub Repositry.
+        // My First GitHub Repositry.
         // for(int i=0;i<100;i++){
         //     System.out.println("you are genius");
 
@@ -18,5 +18,13 @@ public class Hello {
         System.out.println("Max profit is:-"+" "+obj.Buysell2());
         System.out.println("hii");
         System.out.println("hello");
+
+        int []arr={1,2,3,4,5,6};
+        for(int i=0;i<arr.length;i++){
+            System.out.print(arr[i]);
+        }
+
+        System.out.println(" i am in branch 2");
+       
     }
 }
