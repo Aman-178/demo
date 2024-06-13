@@ -9,8 +9,11 @@ class DSaQuestion {
 //     Example: prices = [7,1,5,3,6,4] => 5
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 8179912 (Buy and Sell Question)
      public static int Buysell(){
       int[]  prices = {1,2,4,2,5,7,2,4,9,0};
       
@@ -40,6 +43,7 @@ class DSaQuestion {
 
         return maxprofit;
      }
+<<<<<<< HEAD
 
 //  Problem: You are given an array prices where prices[i] is the price of a 
  //  given stock on the i-th day. Design an algorithm to find the maximum profit. 
@@ -68,4 +72,6 @@ class DSaQuestion {
 
 
 
+=======
+>>>>>>> 8179912 (Buy and Sell Question)
 }

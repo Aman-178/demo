@@ -5,7 +5,10 @@ public class Hello {
         // System.out.println("hello");
         // System.out.println("hello");
         // System.out.println("My name is Aman Singh Rajput");
+<<<<<<< HEAD
         //My First GitHub Repositry.
+=======
+>>>>>>> 8179912 (Buy and Sell Question)
         // for(int i=0;i<100;i++){
         //     System.out.println("you are genius");
 
@@ -15,6 +18,7 @@ public class Hello {
         // }
         DSaQuestion obj=new DSaQuestion();
         System.out.println("Maximu Profit is:-"+" "+obj.Buysell());
+<<<<<<< HEAD
         System.out.println("Max profit is:-"+" "+obj.Buysell2());
         System.out.println("hii");
         System.out.println("hello");
@@ -23,5 +27,7 @@ public class Hello {
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]);
         }
+=======
+>>>>>>> 8179912 (Buy and Sell Question)
     }
 }
